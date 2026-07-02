@@ -32,3 +32,20 @@ pnpm dev
 
 # Build for production
 pnpm build
+
+📁 Project Structure
+• client/src/pages/Home.tsx - Main landing page
+• client/src/index.css - Global styles & design tokens
+• client/src/components/ - Reusable UI components
+🛠️ Tech Stack
+• React 19
+• TypeScript
+• Tailwind CSS 4
+• shadcn/ui
+• Vite
+• Framer Motion
+
+📱 Responsive
+• Mobile (320px - 640px)
+• Tablet (641px - 1024px)
+• Desktop (1025px+)
